@@ -18,7 +18,7 @@
 
 ### 🧨 4_pokedex
 [Challenge](https://github.com/TheBridge-FullStackDeveloper/fs-pt2104-react/tree/main/exercise-advanced-pokedex). | 
-[Solution]().
+[Solution](https://github.com/TommyTraddles/TB_FR_Pokedex). Missing everything
 
 
 
