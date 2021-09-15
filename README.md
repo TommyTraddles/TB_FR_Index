@@ -16,10 +16,11 @@
 [Challenge](https://github.com/TheBridge-FullStackDeveloper/fs-pt2104-react/tree/main/exercise-crono). | 
 [Solution](https://github.com/TommyTraddles/TB_FR_Crono). Missing CSS
 
-### 🧨 4_pokedex
+### 👉 4_pokedex
 [Challenge](https://github.com/TheBridge-FullStackDeveloper/fs-pt2104-react/tree/main/exercise-advanced-pokedex). | 
-[Solution](https://github.com/TommyTraddles/TB_FR_Pokedex). Missing everything
+[Solution](https://github.com/TommyTraddles/TB_FR_Pokedex). Missing saving new api call into list
 
-
-
+### 🧨 4_pokedex
+[Challenge](https://github.com/TheBridge-FullStackDeveloper/fs-pt2104-react/tree/main/excercise-react-context). | 
+[Solution]().
 
